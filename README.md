@@ -31,6 +31,9 @@ Install them via pip:
 ```bash
 pip install pandas scikit-learn
 
+```
+
+---
 
 ## 🚀 How to Run
 
