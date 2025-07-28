@@ -30,3 +30,15 @@ This project uses a **balanced subset** of the Fashion MNIST dataset:
 Install them via pip:
 ```bash
 pip install pandas scikit-learn
+
+
+## 🚀 How to Run
+
+1. Place the CSV files in the same directory as the script:
+   - `fashion_mnist_20bal_train.csv`
+   - `fashion_mnist_20bal_test.csv`
+
+2. Run the script:
+
+```bash
+python fashion_mnist_mlp.py
